@@ -11,12 +11,6 @@
 
 <br><br>
 
-★★★★☆ bass.man
-★★☆☆☆ dev.eloper
-★★★☆☆ design.er
-
-<br><br>
-
 ## Contact
 
 <p align="left" style="background:yellow">
