@@ -5,8 +5,6 @@
 
 - 💻 I’m currently learning JavaScript, HTML, CSS, SQL, Node.JS
 
-- 🔭 I’m currently working at [ImprimaDesign](https://www.imprimadesign.com.br)
-
 - 🎧 Ask me about **Jazz and Soul Music**
 
 <br><br>
