@@ -8,6 +8,7 @@
 💻 Desenvolvedor Front-end <br>
 👨‍💻 Designer na Imprima Design <br>
 💬 Instrutor de Informática na Microcamp<br>
+💬 Professor de Informática na Escola Walda Paolinetti Lozasso<br>
 🎧 Musico nas horas vagas
 
 <br><br>
